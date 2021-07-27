@@ -1,5 +1,6 @@
 /**
  *  My solution
+ * https://www.codewars.com/kata/51c8991dee245d7ddf00000e
  */
 const str = "hello world!"
 const str2 = "yoda doesn't speak like this"

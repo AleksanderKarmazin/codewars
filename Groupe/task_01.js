@@ -1,12 +1,17 @@
 
 // My solution
+/**
+ *  https://www.codewars.com/kata/50654ddff44f800200000004
+ * @param {*} a 
+ * @param {*} b 
+ * @returns 
+ */
 function multiply(a, b){
     return  a * b
 }
 
 
 // Other solutions 
-
 // 1 
 function multiply(a, b){
     if (!a || !b || typeof(a) != "number" || typeof(b) != "number") {
