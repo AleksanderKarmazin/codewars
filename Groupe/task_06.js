@@ -24,6 +24,14 @@ console.log(output === funcOutput)
 *  My solution
 */
 
+// Think about it 
+var numArray = new Float64Array([140000, 104, 99]);
+numArray = numArray.sort();
+console.log(numArray)
+
+
+
+
 // Other solutions 
 // 1 
 function sumTwoSmallestNumbers(numbers){  
