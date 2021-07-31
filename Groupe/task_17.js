@@ -65,5 +65,6 @@ console.log(isPalindrome("1122211"));
 // Other solutions 
 // 1 
 
-
-
+ 
+  
+     
