@@ -19,7 +19,7 @@ function nameShuffler(str){
 
 console.log(nameShuffler(x));
 
-
+ 
 
 // Other solutions 
 // 1 
