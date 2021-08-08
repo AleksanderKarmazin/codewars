@@ -12,6 +12,9 @@ const omap = (obj, fn) => Object.keys(obj)
         .reduce((prev, key) => inst(prev, ...fn(key, obj[key])) , {})
 
 
+
+
+        
 const marcus3 = {
     firstName: "Marcus",
     lastName: "Aurelius",
