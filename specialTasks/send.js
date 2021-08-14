@@ -13,14 +13,14 @@ const omap = (obj, fn) => Object.keys(obj)
 
 
 
-
+     
         
 const marcus3 = {
     firstName: "Marcus",
     lastName: "Aurelius",
     middleName: "Antoninus",
 }
-
+   
 
 const marcus4 = omap(marcus3, (key, val) => [
     key.toUpperCase().replace('Name', ''),
