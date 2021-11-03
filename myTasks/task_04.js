@@ -8,7 +8,7 @@ const str = 'eloquent'
 //  'loquen'
   
 
-
+   
 
 function removeChar(str){
   const arr = str.split('')
