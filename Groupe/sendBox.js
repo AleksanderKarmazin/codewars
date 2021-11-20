@@ -2,7 +2,7 @@ const text = "233312"
 const text2 = "dshgfhjsdggghjfdgjghfjdsrfghdfsdashdfghdfhfgdfgjghdffghsdawergdfshgfdhdghdfghdsfdfhsdfhgfjsdfghjsfdfghjsgfjdddfhfgjsdfghjdfgjdgfjfgjdfgjjhdfjfgj"
 
 
-
+// Some comments
 
 const orderedCount = function (s) {
     let map = new Map();
